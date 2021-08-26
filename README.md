@@ -1,0 +1,2 @@
+# DirectoryGenerator
+Generate customize words
